@@ -1,0 +1,15 @@
+order_id,rep_name,category,product,units_sold,unit_price
+1001,Aisha,Electronics,Laptop,42,850
+1002,Chidi,Accessories,Mouse,150,25
+1003,Ngozi,Electronics,Tablet,29,320
+1004,Emeka,Furniture,Office Chair,15,200
+1005,Tunde,Accessories,Keyboard,210,45
+1006,Aisha,Furniture,Standing Desk,8,450
+1007,Chidi,Electronics,Monitor,22,400
+1008,Ngozi,Accessories,Webcam,75,80
+1009,Emeka,Electronics,Phone,61,600
+1010,Tunde,Furniture,Bookshelf,12,150
+1011,Aisha,Electronics,Laptop,,850
+1012,Chidi,Accessories,Mouse,abc,25
+1013,Ngozi,,Tablet,30,320
+1014,Emeka,Furniture,Office Chair,10,
