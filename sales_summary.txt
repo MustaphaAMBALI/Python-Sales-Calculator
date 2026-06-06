@@ -1,0 +1,12 @@
+── Sales Calculator Report ──────────────────
+Valid rows processed: 10
+Rows skipped: 4
+Total Revenue: $117,980
+Top Category: Electronics - $90,380
+Average Order: $11,798
+
+── Skipped Rows ──────────────────────
+Row 1011 - Aisha: missing units_sold
+Row 1012 - Chidi: invalid units_sold value: 'abc'
+Row 1013 - Ngozi: missing category
+Row 1014 - Emeka: missing unit_price
